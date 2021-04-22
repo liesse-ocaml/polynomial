@@ -1,0 +1,3 @@
+(executable
+ (modules_without_implementation interface)
+ (name main))
